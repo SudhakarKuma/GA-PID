@@ -1,3 +1,6 @@
+%{
+This code is taken from the lectures of Dr. Steve Brunton. 
+%}
 clear all, close all, clc
 
 dt = 0.001; % Time step 
