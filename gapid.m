@@ -1,5 +1,6 @@
 %{
 This code is adapted from the lectures of Dr. Steve Brunton. 
+The video lectures of Dr. Steve is available on https://www.youtube.com/watch?v=S5C_z1nVaSg
 %}
 
 clear all, close all, clc
